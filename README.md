@@ -1,20 +1,20 @@
-# 🧾 Smart Support Ticket Classifier
+#  Smart Support Ticket Classifier
 
 An AI-powered web application that automatically classifies customer support tickets and assigns priority levels using Machine Learning and Natural Language Processing (NLP).
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Handling customer support tickets manually can be time-consuming and inefficient.  
 This project automates the process by analyzing ticket descriptions and predicting:
 
-- 📂 Ticket Category (Refund, Payment, Technical, Support)
-- ⚡ Priority Level (Critical, High, Medium, Low)
+-  Ticket Category (Refund, Payment, Technical, Support)
+-  Priority Level (Critical, High, Medium, Low)
 
 ---
 
-## 🎯 Features
+##  Features
 
 - ✅ NLP-based text classification  
 - ✅ Automatic priority assignment  
@@ -35,7 +35,7 @@ This project automates the process by analyzing ticket descriptions and predicti
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 - Text data is preprocessed (lowercasing, removing noise)  
 - Converted into numerical format using **CountVectorizer**  
